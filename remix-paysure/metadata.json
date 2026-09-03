@@ -1,0 +1,8 @@
+{
+  "name": "Remix Paysure",
+  "description": "A digital payment app prototype designed for safety, inclusivity, and effortless usability with smart guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
