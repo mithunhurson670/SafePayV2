@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the SafePay 1.0
+---------------------------------------------------
+
+app_name - 						SafePay
+app_alias - 					safepay
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Delhi
+app_author_country - 			India
+app_password - 					snb993D2OqZH
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Friday 4th of September 2026 02:32:04 AM
+
+https://webintoapp.com
+---------------------------------------------------
+
